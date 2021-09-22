@@ -1032,7 +1032,7 @@ function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { va
             break;
 
           case 'widget-autosize':
-            console.log('in');
+            console.log('in ds');
             Fliplet.Widget.autosize();
             break;
 

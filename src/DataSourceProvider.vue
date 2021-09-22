@@ -577,7 +577,7 @@ export default {
 
             break;
           case 'widget-autosize':
-            console.log('in');
+            console.log('in ds');
 
             Fliplet.Widget.autosize();
 
